@@ -1,0 +1,8 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\Suyash\AppData\Local\Temp\dvcstore
+['remote "dvc"']
+    url = C:\Users\Suyash\DVC\TEMP\dvcstore
+['remote "local"']
+    url = C:\Users\Suyash\DVC\TEMP\dvcstore
